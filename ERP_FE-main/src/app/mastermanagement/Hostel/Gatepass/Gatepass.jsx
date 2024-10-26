@@ -18,7 +18,7 @@ function Gatepass(){
             name: "John Michaels",
             email: "john@creative-tim.com",
             role: "Manager",
-            organization: "Organization",
+            organization: "Organizations",
             status: "Online",
             employedDate: "23/04/18",
             imgSrc: "../assets/img/team-2.jpg",
