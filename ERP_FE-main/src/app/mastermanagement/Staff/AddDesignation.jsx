@@ -26,7 +26,7 @@ function AddDesignation() {
     
     // Room Number validation
     if (!formData.desigDescription.trim()) {
-      errors.desigDescription = "desigDescription is required.";
+      errors.desigDescription = "desigDescription is requiredd";
     } 
 
     
