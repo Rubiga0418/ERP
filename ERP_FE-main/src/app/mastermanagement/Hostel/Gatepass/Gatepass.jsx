@@ -15,7 +15,7 @@ function Gatepass(){
 
     const authors = [
         {
-            name: "John Michael",
+            name: "John Michaels",
             email: "john@creative-tim.com",
             role: "Manager",
             organization: "Organization",
